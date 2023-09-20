@@ -1,4 +1,6 @@
 {
-  "banner": "Music streaming server having issues. Expect the service to be flakey or not to work.",
-  "banner_color": "error"
+  "banner": {
+    "text": "Music streaming server having issues. Expect the service to be flakey or not to work.",
+    "color": "error"
+  }
 }
